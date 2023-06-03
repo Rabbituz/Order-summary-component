@@ -52,6 +52,8 @@ body .container-card .container-card-text .container-plans .container-plans-pric
 body .container-card .container-card-text .container-plans .container-plans-price div .container-plans-price-1 {
     font-size: calc(16rem / 16);
     line-height: 21.17px;
+    width: 354px;
+    height:50px;
 }
 body .container-card .container-card-text .container-plans .container-plans-price div .container-plans-price-2 {
     font-size: calc(16rem / 16);
