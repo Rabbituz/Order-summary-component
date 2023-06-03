@@ -1,0 +1,71 @@
+body .container-background .background-img-mobile {
+    display: none;
+}
+body .container-background .background-img-desktop {
+    background-image: url(/assets/pattern-background-desktop.svg);
+    width: 100%;
+    height: 427.33px;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    z-index: -1;
+}
+body .container-card {
+    width: 450px;
+    height: 697px;
+}
+body .container-card picture {
+    width: 450px;
+    height: 220px;
+}
+body .container-card .container-card-text {
+    width: 450px;
+    height: 477px;
+}
+body .container-card .container-card-text h1 {
+    top: 45px;
+    width: 354px;
+    height: 37px;
+    font-size: calc(28px);
+    line-height: 37.04px;
+}
+body .container-card .container-card-text .text-paragraph {
+    top: 99px;
+    width: 354px;
+    height: 78px;
+    font-size: calc(16rem / 16);
+    line-height: 26px;
+}
+body .container-card .container-card-text .container-plans {
+    top: 197px;
+    width: 354px;
+    height: 98px;
+}
+body .container-card .container-card-text .container-plans .container-plans-price {
+    width: 306px;
+    height: 48px;
+}
+body .container-card .container-card-text .container-plans .container-plans-price div {
+    width: 92px;
+    height: 48px;
+}
+body .container-card .container-card-text .container-plans .container-plans-price div .container-plans-price-1 {
+    font-size: calc(16rem / 16);
+    line-height: 21.17px;
+}
+body .container-card .container-card-text .container-plans .container-plans-price div .container-plans-price-2 {
+    font-size: calc(16rem / 16);
+    width: 92px;
+    height: 21px;
+    line-height: 21.17px;
+}
+body .container-card .container-card-text .container-plans .container-plans-price a {
+    font-size: calc(14rem / 16);
+    line-height: 18.52px;
+}
+body .container-card .container-card-text button {
+    top: 327px;   
+}
+body .container-card .container-card-text .button-a {
+    top: 409px;
+}
