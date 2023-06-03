@@ -144,6 +144,7 @@ body .container-card .container-card-text .container-plans .container-plans-pric
     font-size: calc(13rem / 16);
     font-weight: 700;
     line-height: 17.2px;
+    color:#382AE1;
 }
 body .container-card .container-card-text .container-plans .container-plans-price a:hover {
     color: #766CF1;
